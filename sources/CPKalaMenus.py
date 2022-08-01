@@ -5,7 +5,7 @@ def mainMenu() :
     _stc = int(input("Please enter your choose :\n"))
     
     if _stc == 1 :
-        pass
+        Register()
         mainMenu()
     elif _stc == 2 :
         pass
@@ -21,4 +21,4 @@ def mainMenu() :
 
 
 def Register() : 
-    
+    return print (2112121)
